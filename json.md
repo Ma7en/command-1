@@ -1,4 +1,4 @@
-## 🛠️ Installation Steps :-
+## 🛠️ Info JSON :-
 
 <h3 align="center"> Info Cars </h3>
 
