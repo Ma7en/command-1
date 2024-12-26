@@ -27,3 +27,9 @@ git remote add origin  git@github.com:ma7en/django-full-dicussion-board-3.git
 ```
 git push -u origin main
 ```
+
+`Step 3` : Starting Git.
+
+```
+gh repo create name-repo --private
+```
