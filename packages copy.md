@@ -1,0 +1,165 @@
+## 🛠️ Start Superuser :-
+
+<h3 align="center"> packages </h3>
+
+`Step 1` : Install Packages.
+
+```
+pip install django
+```
+
+```
+pip install django=3.2.25
+```
+
+```
+pip install djangorestframework
+```
+
+```
+rest_framework
+```
+
+```
+pip install environs
+```
+
+```
+pip install python-dotenv
+```
+
+```
+pip install django-environ
+```
+
+```
+pip install requests
+```
+
+```
+pip install google-auth google-auth-oauthlib
+```
+
+```
+pip install django-cors-headers
+```
+
+```
+pip install drf-nested-routers
+```
+
+```
+pip install django-filter
+```
+
+```
+'django_filters',
+```
+
+```
+pip install Pillow
+```
+
+```
+pip install djangorestframework-simplejwt
+```
+
+```
+pip install django-rest-auth
+```
+
+```
+pip install django-allauth
+```
+
+```
+pip install daphne
+```
+
+```
+pip install drf-spectacular
+```
+
+```
+pip install geocoder
+```
+
+```
+pip install geopy
+```
+
+```
+pip install pandas
+```
+
+```
+pip install geopandas
+```
+
+```
+pip install django-redis
+```
+
+```
+pip install psycopg2
+```
+
+```
+pip install psycopg2-binary
+```
+
+```
+pip install django-anymail
+```
+
+```
+pip install django-phonenumber-field[phonenumbers]
+```
+
+```
+pip install channels
+```
+
+```
+pip install daphne
+```
+
+```
+pip install celery
+```
+
+```
+pip install redis
+```
+
+```
+pip install django-redis
+```
+
+```
+pip install dnspython
+```
+
+```
+pip install django-jazzmin
+```
+
+```
+pip install drf-yasg
+```
+
+```
+pip install django-storages
+```
+
+```
+pip install django-ckeditor-5
+```
+
+```
+pip install shortuuid
+```
+
+```
+pip install djoser
+```
