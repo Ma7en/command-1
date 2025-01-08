@@ -106,3 +106,11 @@ git rm --cached .env
 git commit -m "Remove venv/.env from repository and update .gitignore"
 git push
 git status
+
+<h3 align="center"> GitHub Command </h3>
+
+`1` :
+
+```
+sudo apt update && sudo apt install github-desktop
+```

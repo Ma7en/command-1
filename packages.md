@@ -5,7 +5,15 @@
 `Step 1` : Install Packages.
 
 ```
+pip install --upgrade pip
+```
+
+```
 pip install django
+```
+
+```
+pip install django=3.2.25
 ```
 
 ```
@@ -109,6 +117,10 @@ pip install django-anymail
 ```
 
 ```
+pip install django-phonenumber-field[phonenumbers]
+```
+
+```
 pip install channels
 ```
 
@@ -126,4 +138,68 @@ pip install redis
 
 ```
 pip install django-redis
+```
+
+```
+pip install dnspython
+```
+
+```
+pip install django-jazzmin
+```
+
+```
+pip install drf-yasg
+```
+
+```
+pip install django-storages
+```
+
+```
+pip install django-ckeditor-5
+```
+
+```
+pip install shortuuid
+```
+
+```
+pip install djoser
+```
+
+```
+pip install django-crispy-forms
+```
+
+```
+pip install crispy-bootstrap5
+```
+
+```
+pip install fontawesomefree
+```
+
+```
+pip install django-jquery
+```
+
+```
+pip install django-cleanup
+```
+
+```
+pip install django-utils-six
+```
+
+```
+pip install social-auth-app-django
+```
+
+```
+pip install django-allauth
+```
+
+```
+pip install django-countries
 ```

@@ -2,6 +2,12 @@
 
 <h3 align="center"> Run Prject On Server </h3>
 
+`step 0` : deactivate venv
+
+```
+deactivate
+```
+
 `Step 1` : Run Server localhost.
 
 ```
@@ -40,4 +46,24 @@ redis-server --port 6380
 
 ```
 celery -A proj worker -l INFO
+```
+
+`step 5` : cpanel
+
+```
+https://back.depowebeg.com/cpanel
+```
+
+```
+backdepo
+```
+
+```
+_uFyW=ru(H,D
+```
+
+`step 6` : the-faster
+
+```
+https://faster.back.depowebeg.com/
 ```
