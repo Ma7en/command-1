@@ -67,3 +67,47 @@ _uFyW=ru(H,D
 ```
 https://faster.back.depowebeg.com/
 ```
+
+`step 7` : otp-server for ubuntu
+
+# step 1:
+
+wget https://github.com/mailhog/MailHog/releases/download/v1.0.1/MailHog_linux_amd64
+mv MailHog_linux_amd64 MailHog
+chmod +x MailHog
+
+# step 2:
+
+./MailHog
+
+# step 3:
+
+# -> settings.py
+
+EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+EMAIL_HOST = "localhost"
+EMAIL_PORT = 1025
+DEFAULT_FROM_EMAIL = "no-reply@localhost"
+
+# step 4:
+
+http://localhost:8025
+
+`step 8` : otp-server for windows
+
+# step 1:
+
+https://github.com/mailhog/MailHog/releases
+
+# step 3:
+
+# -> settings.py
+
+EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+EMAIL_HOST = "localhost"
+EMAIL_PORT = 1025
+DEFAULT_FROM_EMAIL = "no-reply@localhost"
+
+# step 4:
+
+http://localhost:8025
