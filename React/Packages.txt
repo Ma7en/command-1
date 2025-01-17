@@ -1,0 +1,171 @@
+
+npx create-reat-app 
+
+npm create vite@latest
+
+
+
+
+==> fontawesome icons 
+
+==> install 
+
+npm i --save @fortawesome/fontawesome-svg-core
+
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/free-brands-svg-icons
+
+npm i --save @fortawesome/react-fontawesome@latest
+
+
+==> import 
+
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {} from "@fortawesome/fontawesome-svg-core";
+import {} from "@fortawesome/free-brands-svg-icons";
+import {} from "@fortawesome/free-regular-svg-icons";
+import {} from "@fortawesome/free-solid-svg-icons";
+import {} from "@fortawesome/react-fontawesome";
+
+<FontAwesomeIcon icon={faEnvelope} />
+
+
+==> 
+
+npm i sass
+npm install react-bootstrap bootstrap
+npm i axios
+npm install react-router-dom
+
+
+==> 4 
+
+npm install @reduxjs/toolkit react-redux
+
+==> 
+
+
+
+
+https://retool.com/api-generator
+
+https://fakestoreapi.com/
+
+==> 
+
+
+npm install gh-pages --save-dev
+
+"predeploy" : "npm run build",
+"deploy" : "gh-pages -d build",
+
+npm run deploy
+
+npm install -g serve
+serve -s build
+
+
+
+==> 
+
+npm install netlify-cli -g
+
+netlify deploy
+
+
+
+
+
+
+npm i -g vercel
+
+
+
+
+
+======================================================================================================================
+
+
+
+
+
+
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/free-brands-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
+npm i sass
+npm install react-bootstrap bootstrap
+npm i axios
+npm install react-router-dom
+npm install @reduxjs/toolkit react-redux
+npm install js-cookie
+npm install react-icons
+npm i react-hook-form
+npm install framer-motion
+npm install qs
+npm install bootstrap-icons
+
+npm install sweetalert2
+npm install jwt-decode
+npm install shortid
+npm install toastr
+npm install semantic-ui-react semantic-ui-css
+
+npm install lodash
+
+
+npm list @mui/material react
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+
+
+
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install @headlessui/react
+npm install @heroicons/react
+
+
+
+
+sound
+npm install axios react-speech-recognition react-speech-kit
+npm install @babel/runtime
+npm install --save-dev @babel/plugin-transform-runtime
+npm install react-app-polyfill
+npm install regenerator-runtime
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

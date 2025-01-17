@@ -9,6 +9,10 @@ pip install --upgrade pip
 ```
 
 ```
+python.exe -m pip install --upgrade pip
+```
+
+```
 pip install django
 ```
 
@@ -66,6 +70,10 @@ pip install Pillow
 
 ```
 pip install djangorestframework-simplejwt
+```
+
+```
+pip install djangorestframework-jwt
 ```
 
 ```
@@ -202,4 +210,14 @@ pip install django-allauth
 
 ```
 pip install django-countries
+```
+
+```
+pip install django-autoslug
+```
+
+`s`
+
+```
+
 ```
