@@ -49,3 +49,21 @@ npm ERR! .
 ```
 npm install --legacy-peer-deps
 ```
+
+<h3 align="center"> Error React </h3>
+
+```
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+```
+
+```
+cd D:\2a=pro\a4=react\b=vite\5-proj\22-darelqalm\.git
+```
+
+```
+del index.lock
+```

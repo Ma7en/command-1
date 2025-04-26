@@ -1,0 +1,38 @@
+=============================================
+
+npx create-expo-app --template
+
+blank
+
+npm run web 
+
+
+
+
+
+=============================================
+
+npx create-expo-app@latest ./
+npx create-expo-app@latest .
+
+npm run reset-project
+n
+
+
+
+
+
+eas build -p android --profile preview
+
+
+=============================================
+
+
+netstat -ano | findstr :8081
+taskkill /PID [PID] /F
+taskkill /PID 12240 /F
+
+
+
+
+

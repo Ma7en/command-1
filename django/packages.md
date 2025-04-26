@@ -1,8 +1,18 @@
-## 🛠️ Start Superuser :-
+## 🛠️ Start Packages :-
 
 <h3 align="center"> packages </h3>
 
-`Step 1` : Install Packages.
+`Step 1` : Install requiremental Packages.
+
+```
+pip freeze > requirements.txt
+```
+
+```
+pip install -r requirements.txt
+```
+
+`Step 2` : Install Packages.
 
 ```
 pip install --upgrade pip
@@ -216,8 +226,18 @@ pip install django-countries
 pip install django-autoslug
 ```
 
-`s`
-
+```
+pip install dj-rest-auth
 ```
 
+```
+pip install cryptography
+```
+
+```
+pip install django-debug-toolbar
+```
+
+```
+pip install black
 ```

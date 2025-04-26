@@ -100,6 +100,21 @@ npm i sass
 npm install react-bootstrap bootstrap
 npm i axios
 npm install react-router-dom
+npm i styled-components
+npm i aos
+npm i react-scroll
+npm i --save-dev @types/react-scroll
+
+npm install file-saver
+npm i @types/file-saver
+
+npm install vite-plugin-pwa --save-dev
+npm i framer-motion
+
+npm i @heroicons/react
+
+
+
 npm install @reduxjs/toolkit react-redux
 npm install js-cookie
 npm install react-icons
@@ -140,14 +155,20 @@ npm install react-app-polyfill
 npm install regenerator-runtime
 
 
+npm i zustand
+npm i simple-zustand-devtools
+
+npm i @tanstack/react-query
+npm i @tanstack/react-query-devtools
+npm i react-hot-toast
 
 
+npm i scrollreveal
+npm install quotesy
 
 
-
-
-
-
+npm install i18next react-i18next i18next-browser-languagedetector i18next-locize-backend locize-lastused locize
+npm install --save-dev i18next-resources-for-ts locize-cli
 
 
 
