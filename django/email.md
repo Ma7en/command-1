@@ -1,6 +1,6 @@
 ## 🛠️ Start Code Email :-
 
-<h3 align="center"> Code Email </h3>
+<h3 align="center"> SMTP Email </h3>
 
 `Code 1` : # SMTP google
 
@@ -18,11 +18,24 @@ EMAIL_HOST_PASSWORD = "mpqxfsllvcoldawc"
 `Code 2` : # SMTP localhost
 
 ```
-Run Program
+Download program for windows
+https://github.com/mailhog/MailHog/releases
 ```
 
 ```
-Open
+Download program for Ubuntu
+wget https://github.com/mailhog/MailHog/releases/download/v1.0.1/MailHog_linux_amd64
+mv MailHog_linux_amd64 MailHog
+chmod +x MailHog
+```
+
+```
+Run Program
+./MailHog
+```
+
+```
+Open Link
 http://localhost:8025
 ```
 

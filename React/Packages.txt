@@ -176,7 +176,7 @@ npm install --save-dev i18next-resources-for-ts locize-cli
 
 
 
-
+npm install ionicons
 
 
 

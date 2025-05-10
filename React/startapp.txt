@@ -1,0 +1,4 @@
+
+npx create-reat-app 
+
+npm create vite@latest
