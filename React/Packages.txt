@@ -179,14 +179,14 @@ npm install --save-dev i18next-resources-for-ts locize-cli
 npm install ionicons
 
 
+npm i react-chartjs-2
 
+npm install chart.js
 
+npm i tailwind-merge
+npm install clsx tailwind-merge
 
-
-
-
-
-
+npm i date-fns
 
 
 

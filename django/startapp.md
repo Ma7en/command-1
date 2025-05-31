@@ -19,3 +19,9 @@ django-admin startapp account
 ```
 python3 manage.py startapp account
 ```
+
+`Step 2` : Run Server
+
+```
+python manage.py runserver
+```

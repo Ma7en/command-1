@@ -12,7 +12,13 @@ pip freeze > requirements.txt
 pip install -r requirements.txt
 ```
 
-`Step 2` : Install Packages.
+`Step 2` : UnInstall Packages.
+
+```
+python -m pip uninstall 
+```
+
+`Step 3` : Install Packages.
 
 ```
 pip install --upgrade pip
@@ -241,3 +247,27 @@ pip install django-debug-toolbar
 ```
 pip install black
 ```
+
+```
+pip install reportlab
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+
+
+

@@ -1,5 +1,8 @@
 venv
+venv/
 __pycache__
+__pycache__/
+.idea
 .idea/
 media/chat-audio
 media/chat-images
@@ -8,6 +11,10 @@ media/chat-images
 */migrations/*
 !*/migrations/__init__.py
 
+# 
+.vscode
+.vscode/
+.vscode/*
 
 
 # me
